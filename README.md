@@ -13,16 +13,17 @@
 
 _____
 
-<img align="left" width="200" height="120" src="/images/SubwayWallSt.jpg">**Paul Markey** resides in New York City. Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.
+<img align="left" width="180" height="108" src="/images/SubwayWallSt.jpg">**Paul Markey** resides in New York City. Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements. #  
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
 _____
 &nbsp;
 
 ## Clients
 
-Below is a partial list of clients where Paul Markey has done tech writing and business analysis contract work:
+Below is a partial list of clients for which Paul Markey's performed tech writing and business analysis contract work:
 
 | Left-aligned           | Center-aligned           | Right-aligned           |
 | :---                   | :---                     | :---                    |
@@ -34,7 +35,10 @@ _____
 &nbsp;
 
 ## Education
+| Where                  | Degree                   | When           |
+| :---                   | :---                     | :---                    |
+| git status             | git status               | git status              |
+| git diff               | git diff                 | git diff                |
 
 
 
-Tech writing and business analyst services by Paul Markey and Radiation Resources Inc. 
