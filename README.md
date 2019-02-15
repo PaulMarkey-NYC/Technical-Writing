@@ -10,13 +10,15 @@ Radiation Resources Inc. is the New York City-based independent consulting compa
 
 Crisp online communications can be built using whatever tools your enterprise prefers. Projects can be managed from start to finish -- the work is always on time and on budget. 
 
+Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.
+
 *Jump to:*
 
-Contact
+*  Contact
 
-Clients
+*  Clients
 
-Education
+*  Education
 
 ## Clients
 
