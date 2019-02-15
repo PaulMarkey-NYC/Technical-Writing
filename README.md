@@ -23,6 +23,7 @@ Radiation Resources Inc. is incorporated in the state of New York and is fully i
 ## Clients
 
 text
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
