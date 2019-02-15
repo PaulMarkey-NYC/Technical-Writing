@@ -13,7 +13,7 @@
 
 _____
 
-<img align="left" width="180" height="108" src="/images/SubwayWallSt.jpg">**Paul Markey** resides in New York City. Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.#  
+<img align="left" width="180" height="108" src="/images/SubwayWallSt.jpg">**Paul Markey** resides in New York City. Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.  
 &nbsp;
 &nbsp;
 &nbsp;
