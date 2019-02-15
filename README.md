@@ -39,8 +39,6 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 | git diff               | git diff                 | git diff                |
 
 &nbsp;
-_____
-&nbsp;
 
 ## Education
 | Where                  | Degree                   | When           |
