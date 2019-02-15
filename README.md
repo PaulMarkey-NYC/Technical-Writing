@@ -5,13 +5,12 @@
 _____
 <p align="center">
   <a href="mailto:Paul@PaulMarkey.com">Email</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="#">(212) 932-2968</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a><strong>(212) 932-2968/</strong></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/paulmarkey-nyc/">LinkedIn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="http://www.PaulMarkey.com">Web Site</a>
 </p>
 
 _____
-&nbsp;
 
 <img align="left" width="41" height="45" src="/images/rrlogo100.jpg">**Radiation Resources Inc.** is the New York City-based independent consulting company founded by [Paul Markey](mailto:Paul@PaulMarkey.com). A seasoned Wall Street tech writer/engineer with broad experience in the financial services and media industries, Paul is a disciplined tech communicator with excellent social skills who can sit down with fast-talking developers and executives then organize their thoughts into cohesive, cogent documentation.
 
