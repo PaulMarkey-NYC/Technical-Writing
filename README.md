@@ -3,6 +3,7 @@
 
 # Paul Markey
 Tech writing and business analyst services by Paul Markey and Radiation Resources Inc.
+
 *Jump to:*
 Contact
 Clients
