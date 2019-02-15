@@ -14,18 +14,24 @@
 _____
 
 <img align="left" width="200" height="120" src="/images/SubwayWallSt.jpg">**Paul Markey** resides in New York City. Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.
-
+&nbsp;
+&nbsp;
 
 _____
+&nbsp;
 
 ## Clients
 
-text
+Below is a partial list of clients where Paul Markey has done tech writing and business analysis contract work:
 
 | Left-aligned           | Center-aligned           | Right-aligned           |
 | :---                   | :---                     | :---                    |
 | git status             | git status               | git status              |
 | git diff               | git diff                 | git diff                |
+
+&nbsp;
+_____
+&nbsp;
 
 ## Education
 
