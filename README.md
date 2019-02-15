@@ -1,9 +1,17 @@
 ![Paul Markey banner](/images/GitHubBanner.jpg)
 
-
 # Paul Markey - Radiation Resources Inc.
 ***Tech writing and business analyst services***
+_____
+<p align="center">
+  <a href="mailto:Paul@PaulMarkey.com">Email</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="#">(212) 932-2968</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/paulmarkey-nyc/">LinkedIn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="http://www.PaulMarkey.com">Web Site</a>
+</p>
 
+_____
+&nbsp;
 **Radiation Resources Inc.** is the New York City-based independent consulting company founded by [Paul Markey](mailto:Paul@PaulMarkey.com). A seasoned Wall Street tech writer/engineer with broad experience in the financial services and media industries, Paul is a disciplined tech communicator with excellent social skills who can sit down with fast-talking developers and executives then organize their thoughts into cohesive, cogent documentation.
 
 <img align="left" width="200" height="124" src="/images/FlowDiagram.jpg">**Communication is our business**. Whether working with busy managers or fast-talking technologists, Paul efficiently distills the core meaning then crafts it into nuanced, concise language and images that get your message across. Confusion-free. Runbooks, user guide, system specs, executive memos, architectural diagrams, web-based imagery -- Paul Markey and Radiation Resources deliver the job fast and with flair. And without the hassles. 
