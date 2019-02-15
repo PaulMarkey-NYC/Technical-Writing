@@ -1,3 +1,7 @@
+![Paul Markey banner](http://example.com/images/githubbanner.jpg)
+
+
+
 # Paul Markey
 ## *Technical Writing, Business Analysis*
 
