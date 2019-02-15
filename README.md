@@ -10,7 +10,7 @@
 
 <img align="right" width="200" height="120" src="/images/TableGraphic1.jpg">We build **crisp and concise** online technical communications using whatever tools your enterprise supports. And if hard-copy is your media of choice, we can layout and publish your docs with the professional sheen your job requires. Projects can be managed from start to finish -- the work is always on time and on budget. 
 
-<img align="left" width="200" height="70" src="/images/SubwayWallSt.jpg">Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.
+<img align="left" width="200" height="120" src="/images/SubwayWallSt.jpg">Radiation Resources Inc. is incorporated in the state of New York and is fully insured in accordance with prevailing corporate requirements.
 
 
 *Jump to:*
