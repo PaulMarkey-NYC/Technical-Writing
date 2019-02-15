@@ -1,4 +1,4 @@
-![Paul Markey banner](https://github.com/PaulMarkey-NYC/Technical-Writing/blob/master/images/GitHubBanner.jpg)
+![Paul Markey banner](/images/GitHubBanner.jpg)
 
 
 # Paul Markey
