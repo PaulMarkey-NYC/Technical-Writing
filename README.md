@@ -2,7 +2,7 @@
 
 
 # Paul Markey - Radiation Resources Inc.
-***Tech writing and business analyst services ***
+***Tech writing and business analyst services***
 
 Radiation Resources Inc. is the New York City-based independent consulting company founded by **Paul Markey**. A seasoned Wall Street tech writer/engineer with broad experience in the financial services and media industries, Paul is a disciplined tech communicator with excellent social skills who sits down with fast-talking developers and executives then organize their thoughts into cohesive, cogent documentation.
 
