@@ -33,7 +33,7 @@ _____
 
 Below is a partial list of clients for which Paul Markey's performed tech writing and business analysis contract work:
 
-| Left-aligned           | Center-aligned           | Right-aligned           |
+|                        |                          |                         |
 | :---                   | :---                     | :---                    |
 | git status             | git status               | git status              |
 | git diff               | git diff                 | git diff                |
