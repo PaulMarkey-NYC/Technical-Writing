@@ -31,7 +31,7 @@ _____
 
 ## Clients
 
-Below is a partial list of clients for which Paul Markey's performed tech writing and business analysis contract work:
+Below is a partial list (alphabetized) of clients for which Paul Markey's performed tech writing and business analysis contract work:
 
 |                        |                          |                         |
 | :---                   | :---                     | :---                    |
@@ -45,8 +45,8 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 | DEUTSCHE BANK (multiple contracts)        | MORGAN STANLEY (multiple contracts)  | THOMSON REUTERS/FXALL               |
 | ERNST & YOUNG (multiple contracts)         | MORGAN STANLEY DEAN WITTER               | WATERS INFORMATION SERVICES    |
 | GOLDMAN SACHS               |  NYNEX            |YMCA RETIREMENT FUND              |
-| git diff               | PFIZER              |                |
-| git diff            | RADIAN ASSET ASSURANCE          |               |
+|               | PFIZER              |                |
+|              | RADIAN ASSET ASSURANCE          |               |
 
 &nbsp;
 
