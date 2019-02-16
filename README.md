@@ -46,7 +46,7 @@ Paul Markey's education history:
 
 | Image                  | Where                  | Degree                   | When               |
 | :---                   | :---                   | :---                     | :---               |
-| ![](/images/NYUlogo.jpg)                | New York University            | Ph.D course work, English            | 1986-87            |
+| <img src="/images/nyulogo.jpg" width="50" height="50">                | New York University            | Ph.D course work, English            | 1986-87            |
 | image                  | New York University             | M.A. English                | 1985                |
 | ![](/images/uconnlogo.jpg)                | University of Connecticut               | B.S. Electical Engineering/Computer Science                | 1982              |
 | image                  | University of Connecticut               | B.A. English               | 1982               |
