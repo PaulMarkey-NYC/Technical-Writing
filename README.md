@@ -42,8 +42,8 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 
 ## Education
 
-|                        | Where                  | Degree                   | When           |
-| Where                  | :---                   | :---                     | :---                    |
+| Image                  | Where                  | Degree                   | When               |
+| :---                   | :---                   | :---                     | :---               |
 | image                  | New York University            | Ph.D course work, English            | 1986-87            |
 | image                  | New York University             | M.A. English                | 1985                |
 | image                  | University of Connecticut               | B.S. Electical Engineering/Computer Science                | 1982              |
