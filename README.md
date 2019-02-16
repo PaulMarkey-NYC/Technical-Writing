@@ -44,7 +44,7 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 
 Paul Markey's education history:
 
-| Image                  | Where                  | Degree                   | When               |
+|                        | Where                  | Degree                   | When               |
 | :---                   | :---                   | :---                     | :---               |
 | <img src="/images/NYUlogo.jpg" width="50" height="50"> | New York University  | Ph.D course work, English  | 1986-87            |
 | <img src="/images/NYUlogo.jpg" width="50" height="50"> | New York University | M.A. English   | 1985                |
