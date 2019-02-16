@@ -35,18 +35,18 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 
 |                        |                          |                         |
 | :---                   | :---                     | :---                    |
-| git status             | git status               | git status              |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
-| git diff               | git diff                 | git diff                |
+| AMERICAN INTERNATIONAL GROUP (AIG)             | HBO              | REUTERS              |
+| BANK OF AMERICA               | INTRALINKS        | ROCKEFELLER GROUP INTERNATIONAL                |
+| BANKERS TRUST CO. (multiple contracts)         | JEFFERIES & CO.   | SOCIETE GENERALE                |
+| CHASE MANHATTAN BANK (multiple contracts)| JPMORGAN CHASE (multiple contracts) | STANDARD & POOR’S (multiple contracts)  |
+| CHEMICAL BANK, New York, NY               | LEHMAN BROTHERS                 | SVENSKA HANDELSBANKEN               |
+| CITIBANK  (multiple contracts)           | MARKOV PROCESSES INTERNATIONAL (MPI)                 | TD WATERHOUSE                |
+| DEUTSCHE ASSET MANAGEMENT               | MERRILL LYNCH & CO.                | THESYS CAT                |
+| DEUTSCHE BANK (multiple contracts)        | MORGAN STANLEY (multiple contracts)  | THOMSON REUTERS/FXALL               |
+| ERNST & YOUNG (multiple contracts)         | MORGAN STANLEY DEAN WITTER               | WATERS INFORMATION SERVICES    |
+| GOLDMAN SACHS               |  NYNEX            |YMCA RETIREMENT FUND              |
+| git diff               | PFIZER              |                |
+| git diff            | RADIAN ASSET ASSURANCE          |               |
 
 &nbsp;
 
