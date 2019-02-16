@@ -37,6 +37,16 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 | :---                   | :---                     | :---                    |
 | git status             | git status               | git status              |
 | git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
+| git diff               | git diff                 | git diff                |
 
 &nbsp;
 
