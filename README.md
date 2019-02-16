@@ -43,8 +43,11 @@ Below is a partial list of clients for which Paul Markey's performed tech writin
 ## Education
 | Where                  | Degree                   | When           |
 | :---                   | :---                     | :---                    |
-| git status             | git status               | git status              |
-| git diff               | git diff                 | git diff                |
+| New York University            | Ph.D course work, English            | git status              |
+| New York University             | M.A. English                | git diff                |
+| University of Connecticut               | B.S. Electical Engineering/Computer Science                | git diff                |
+| University of Connecticut               | B.A. English               | git diff                |
+
 
 
 
