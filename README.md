@@ -1,7 +1,7 @@
 ![Paul Markey banner](/images/GitHubBanner.jpg)
 
 # Paul Markey - Radiation Resources Inc.
-***Tech writing and business analyst services***
+***Tech writing and business analyst services - New York City***
 _____
 <p align="center">
   <a href="mailto:Paul@PaulMarkey.com">Email</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
