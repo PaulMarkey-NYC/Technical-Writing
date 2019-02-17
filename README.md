@@ -52,7 +52,7 @@ Below is a partial list (alphabetized) of clients for which Paul Markey's perfor
 
 ## Education
 
-Paul Markey's education history:
+Decades of workplace experience with dozens of clients is the best education. Before that, Paul Markey's education history went like this:
 
 |                        | School                  | Degree                   | When               |
 | :---                   | :---                   | :---                     | :---               |
