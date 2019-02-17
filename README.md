@@ -52,7 +52,7 @@ Below is a partial list (alphabetized) of clients for which Paul Markey's perfor
 
 ## Education
 
-Decades of workplace experience with dozens of clients is the best education. Before that, Paul Markey's education history went like this:
+Decades of workplace experience with dozens of NYC-based clients is the best education. Before that, Paul Markey's education history went like this:
 
 |                        | School                  | Degree                   | When               |
 | :---                   | :---                   | :---                     | :---               |
