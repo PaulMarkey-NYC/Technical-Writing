@@ -16,7 +16,7 @@ _____
 
 <img align="left" width="200" height="124" src="/images/FlowDiagram.jpg">**Communication is our business**. Whether working with busy managers or word-challenged technologists, Paul efficiently distills the core meaning then crafts it into nuanced, concise language and images that get your message across. Confusion-free. Runbooks, user guide, system specs, executive memos, architectural diagrams, web-based imagery -- Paul Markey and Radiation Resources deliver the job fast and with flair. And without the hassles. 
 
-<img align="right" width="150" height="90" src="/images/TableGraphic1.jpg">We build **crisp and concise** online technical communications using whatever tools your enterprise supports. And if hard-copy is your media of choice, we can layout and publish your docs with the professional sheen your job requires. Projects can be managed from start to finish -- the work is always on time and on budget. 
+<img align="right" width="150" height="90" src="/images/TableGraphic1.jpg">We build **crisp and concise** online technical communications using whatever tools your enterprise supports. And if hard copy is your media of choice, we can layout and publish your docs with the professional sheen your job requires. Projects can be managed from start to finish -- the work is always on time and on budget. 
 
 
 _____
@@ -46,7 +46,6 @@ Below is a partial list (alphabetized) of clients for which Paul Markey's perfor
 | ERNST & YOUNG (multiple contracts)         | MORGAN STANLEY DEAN WITTER               | WATERS INFORMATION SERVICES    |
 | GOLDMAN SACHS               |  NYNEX            |YMCA RETIREMENT FUND              |
 |               | PFIZER              |                |
-|              | RADIAN ASSET ASSURANCE          |               |
 
 &nbsp;
 
