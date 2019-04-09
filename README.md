@@ -7,7 +7,8 @@ _____
   <a href="mailto:Paul@PaulMarkey.com">Email</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a>Phone:<strong> (212) 932-2968</strong></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/paulmarkey-nyc/">LinkedIn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="http://www.PaulMarkey.com">Web Site</a>
+  <a href="http://www.PaulMarkey.com">Web Site</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+  <a href="assets/PaulMarkeyResume.doc">Resume</a>
 </p>
 
 _____
