@@ -8,7 +8,7 @@ _____
   <a>Phone:<strong> (212) 932-2968</strong></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/paulmarkey-nyc/">LinkedIn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="http://www.PaulMarkey.com">Web Site</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-  <a href="images/PaulMarkeyResume.pdf" target="_blank">Resume</a>
+  <a href="images/PaulMarkeyResume.pdf" target="pdf-frame">Resume</a>
 </p>
 
 _____
